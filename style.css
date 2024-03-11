@@ -1,7 +1,7 @@
 *{
     padding: 0px;
     margin: 1vw;
-    background-color: rgb(243, 245, 224);
+    background-color: rgb(249, 252, 221);
 }
 
 .navbar{
@@ -60,3 +60,7 @@ button{
  .left-hero img{
     width: 35vw;
  }
+/* ///////////////////////////main/////////////////////////////// */
+.serv{
+    display: flex;
+}
