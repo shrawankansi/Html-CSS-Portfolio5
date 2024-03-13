@@ -18,6 +18,7 @@ ul{
 }
 li{
     cursor: pointer;
+    color: rgb(88, 187, 118);
 }
 li:hover{
     color: rgb(59, 184, 184);
