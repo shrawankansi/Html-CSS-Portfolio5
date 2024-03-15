@@ -65,7 +65,7 @@ button{
 .serv{
     display: flex;
 }
-.serv1{
+.serv1, .serv2{
     border-radius: 18px;
     background: linear-gradient(145deg, #e0e3c8, #ffffee);
     box-shadow:  5px 5px 10px #d4d6bd,
