@@ -1,7 +1,7 @@
 *{
     padding: 0px;
     margin: 1vw;
-    background-color: rgb(249, 252, 222);
+    /* background-color: rgb(249, 252, 222); */
 }
 
 .navbar{
@@ -111,4 +111,16 @@ button{
     
     
    
+}
+/* ///////////////////////////////////////////*/
+.icon{
+    display: flex;
+}
+.left-wall h3{
+    color: blue;
+
+}
+.left-wall h6{
+    margin-top: -10px;
+
 }
