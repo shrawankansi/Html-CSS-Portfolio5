@@ -31,6 +31,9 @@ button{
     border-style: none;
     color: aliceblue;
 }
+ button:hover {
+    background-color: rgb(11, 179, 165);
+}
 /* ///////////////////hero /////////////////////////////
  */
 
@@ -70,4 +73,42 @@ button{
     background: linear-gradient(145deg, #e0e3c8, #ffffee);
     box-shadow:  5px 5px 10px #d4d6bd,
                  -5px -5px 10px #ffffff;
+}
+/* ///////////////////////////// */
+.diversity{
+    height: 70vh;
+    display: flex;
+    background-color: rgb(50, 22, 207);
+    align-items: center;
+    border-radius: 5px;
+    
+    
+}
+
+.right-diver{
+    width: 40vw;
+    background-color:transparent;
+
+}
+.right-diver h2{
+    font-size: 3vw;
+    background-color: transparent;
+    color: #ffffff;
+}
+.right-diver p{
+  font-size: 2vw;
+  background-color: transparent;
+  color: rgb(188, 201, 212);
+
+}
+.right-diver button{
+    background-color: #fffffc;
+    color: rgb(25, 28, 175);
+}
+.left-diver img{
+  
+    width: 35vw;
+    
+    
+   
 }
