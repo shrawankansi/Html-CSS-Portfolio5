@@ -135,6 +135,8 @@ box-shadow:  7px 7px 14px #a3a3a3,
     display: flex;
     justify-content: space-around;
     width: full;
+    background-color: #a3a3a3;
+    border-radius: 7px;
 }
 .culomn{
     width: 20vw;
