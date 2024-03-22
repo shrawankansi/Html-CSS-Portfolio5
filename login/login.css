@@ -43,6 +43,14 @@ p{
     align-items: center;
     color: aliceblue;
 }
+button{
+    background-color: rgb(5, 37, 124);
+    color: aliceblue;
+    border-style: none;
+    padding: 10px;
+    border-radius: 7px;
+    cursor: pointer;
+}
 
 /* //////////////////////////////////////////////////// */
 /* @media screen and (max-widht:705px) {
