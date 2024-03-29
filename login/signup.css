@@ -20,6 +20,10 @@
 input{
     width: 20vw;
     padding: 1vh;
+
+}
+input:focus{
+    outline-color: rgb(236, 39, 39);
 }
 span{
     margin-left: -17vw;
