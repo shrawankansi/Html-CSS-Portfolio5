@@ -51,6 +51,9 @@ h2{
     color: aliceblue;
     border-radius: 7px;
 }
+.left p{
+    color: rgb(166, 179, 179);
+}
 button{
     background-color: rgb(8, 18, 146);
     color: aliceblue;
