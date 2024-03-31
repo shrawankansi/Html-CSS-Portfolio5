@@ -23,7 +23,7 @@ input{
 
 }
 input:focus{
-    outline-color: rgb(236, 39, 39);
+    outline-color: rgb(252, 13, 132);
 }
 span{
     margin-left: -17vw;
